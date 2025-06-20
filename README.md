@@ -1,2 +1,2 @@
-# daily-dairy-
-A personal daily diary for 2025.
+this is the daily diary of the training 
+amanjot singh
